@@ -1,13 +1,12 @@
- Sou o Gabriel, um entusiasta de tecnologia e estudante de Análise e Desenvolvimento de Sistemas na FIAP. Estou em uma jornada de aprendizado e descoberta no mundo do desenvolvimento de software.
 
-Embora ainda não tenha experiência profissional na área, estou apaixonado por explorar os fundamentos da programação e adquirir habilidades para criar soluções inovadoras. Atualmente, estou focado em desenvolver projetos da faculdade, onde posso aplicar meus conhecimentos e enfrentar desafios interessantes.
+Olá! Sou o Gabriel, estudante de Análise e Desenvolvimento de Sistemas na FIAP, apaixonado por tecnologia, e agora explorando o mundo da programação.  
 
-Minhas principais habilidades são Java, HTML e CSS, mas estou sempre disposto a aprender novas tecnologias e expandir meu conhecimento. 
+O foco deste perfil é meus projetos acadêmicos, buscando desafios e aprendizado. 
 
-Tenho um interesse especial no desenvolvimento de aplicações web e programação orientada a objetos, assim como no design de bancos de dados eficientes.
+Habilidades: Java, HTML, CSS. 
 
-Adoraria colaborar com outros estudantes e compartilhar ideias e soluções com a comunidade. Acredito que a troca de conhecimento é essencial para o crescimento pessoal e profissional. Então, se você tem algum projeto empolgante ou apenas gostaria de bater um papo sobre desenvolvimento de software, não hesite em entrar em contato comigo!
+Interesses: Desenvolvimento web, programação orientada a objetos e bancos de dados. 
 
-Você pode me alcançar através do e-mail  rm551344@fiap.com.br.
+Vamos colaborar? Entre em contato: rm551344@fiap.com.br. 
 
-Estou ansioso para conhecer pessoas incríveis e desenvolver soluções que impactem positivamente o mundo da tecnologia.
+![DeveloperNocodeGIF](https://github.com/fiap-gabriellaborao/fiap-gabriellaborao/assets/137926013/a21e33e4-03cf-45bd-bdd0-a8089358a9f5)
