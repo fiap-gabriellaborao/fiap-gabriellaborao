@@ -2,8 +2,12 @@
 
 Embora ainda não tenha experiência profissional na área, estou apaixonado por explorar os fundamentos da programação e adquirir habilidades para criar soluções inovadoras. Atualmente, estou focado em desenvolver projetos da faculdade, onde posso aplicar meus conhecimentos e enfrentar desafios interessantes.
 
-Minhas principais habilidades são Java, C#, HTML e CSS, mas estou sempre disposto a aprender novas tecnologias e expandir meu conhecimento. Tenho um interesse especial no desenvolvimento de aplicações web e programação orientada a objetos, assim como no design de bancos de dados eficientes.
+Minhas principais habilidades são Java, HTML e CSS, mas estou sempre disposto a aprender novas tecnologias e expandir meu conhecimento. 
+
+Tenho um interesse especial no desenvolvimento de aplicações web e programação orientada a objetos, assim como no design de bancos de dados eficientes.
 
 Adoraria colaborar com outros estudantes e compartilhar ideias e soluções com a comunidade. Acredito que a troca de conhecimento é essencial para o crescimento pessoal e profissional. Então, se você tem algum projeto empolgante ou apenas gostaria de bater um papo sobre desenvolvimento de software, não hesite em entrar em contato comigo!
 
-Você pode me alcançar através do e-mail gabriel.laborao@email.com. Estou ansioso para conhecer pessoas incríveis e desenvolver soluções que impactem positivamente o mundo da tecnologia.
+Você pode me alcançar através do e-mail  rm551344@fiap.com.br.
+
+Estou ansioso para conhecer pessoas incríveis e desenvolver soluções que impactem positivamente o mundo da tecnologia.
